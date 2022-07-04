@@ -52,7 +52,7 @@
     margin: 15px 0;
     color: gray;
     font-size: 13px;
-    padding-left: 10px;
+    padding-left: 0px;
 }
 
 .submit_btn {
@@ -70,4 +70,22 @@
     position: absolute;
     top: 15px;
     right: 20px;
+}
+
+#to_login {
+    position: relative;
+    left: 110px;
+} 
+
+#tpassword_expiration_date {
+    position: relative;
+    right: 58px;
+    color: gray;
+    margin: 15px 0;
+    font-size: 13px;
+    
+}
+
+a {
+    text-decoration: none;
 }
